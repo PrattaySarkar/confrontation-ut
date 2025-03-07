@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_wall1",
+  "%Name":"eastereggtextt",
   "eventList":[],
   "managed":true,
-  "name":"obj_wall1",
+  "name":"eastereggtextt",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,9 +28,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite11",
-    "path":"sprites/Sprite11/Sprite11.yy",
+    "name":"spr_crashtriggersprite",
+    "path":"sprites/spr_crashtriggersprite/spr_crashtriggersprite.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

@@ -59,3 +59,15 @@ else
 		image_speed = 1; // the default one (this is given for better understanding of the code)
 		if (run_key) image_speed = 2; // Faster one, it sped up nimaton
 	}
+if (place_meeting(x, y, obj_crashplayerobj)) { // Change obj_enemy to the object you want
+    var garbage = "";
+    var chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*()_+-=";
+    var length = irandom_range(5, 20);
+
+    for (var i = 0; i < length; i++) {
+        garbage += string_char_at(chars, irandom_range(1, string_length(chars)));
+    }
+
+    // Change window title
+    window_set_caption(garbage);
+}

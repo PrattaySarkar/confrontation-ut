@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_wall1",
+  "%Name":"obj_crashplayerobj",
   "eventList":[],
   "managed":true,
-  "name":"obj_wall1",
+  "name":"obj_crashplayerobj",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite11",
-    "path":"sprites/Sprite11/Sprite11.yy",
+    "name":"idk",
+    "path":"sprites/idk/idk.yy",
   },
   "spriteMaskId":null,
   "visible":false,
