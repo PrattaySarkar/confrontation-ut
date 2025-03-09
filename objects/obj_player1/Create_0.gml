@@ -11,3 +11,4 @@ sprite[LEFT] = spr_playerleft;
 sprite[DOWN] = spr_playerdown;
 
 face = DOWN;
+
