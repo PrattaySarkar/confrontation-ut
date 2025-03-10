@@ -4,6 +4,10 @@
     {"name":"eastereggtextt","order":2,"path":"objects/eastereggtextt/eastereggtextt.yy",},
     {"name":"obj_crashplayerobj","order":3,"path":"objects/obj_crashplayerobj/obj_crashplayerobj.yy",},
     {"name":"obj_title","order":6,"path":"objects/obj_title/obj_title.yy",},
+<<<<<<< HEAD
+=======
+    {"name":"obj_TitleFuncs","order":7,"path":"objects/obj_TitleFuncs/obj_TitleFuncs.yy",},
+>>>>>>> 5da5967 (title screen update yay)
     {"name":"obj_transition","order":5,"path":"objects/obj_transition/obj_transition.yy",},
     {"name":"obj_wall1","order":1,"path":"objects/obj_wall1/obj_wall1.yy",},
     {"name":"obj_warp","order":4,"path":"objects/obj_warp/obj_warp.yy",},
@@ -12,6 +16,10 @@
     {"name":"rm_title","order":4,"path":"rooms/rm_title/rm_title.yy",},
     {"name":"snd_confirm","order":3,"path":"sounds/snd_confirm/snd_confirm.yy",},
     {"name":"snd_nuhuh","order":2,"path":"sounds/snd_nuhuh/snd_nuhuh.yy",},
+<<<<<<< HEAD
+=======
+    {"name":"snd_startup","order":5,"path":"sounds/snd_startup/snd_startup.yy",},
+>>>>>>> 5da5967 (title screen update yay)
     {"name":"snd_switch","order":1,"path":"sounds/snd_switch/snd_switch.yy",},
     {"name":"idk","order":8,"path":"sprites/idk/idk.yy",},
     {"name":"spr_crashtriggersprite","order":7,"path":"sprites/spr_crashtriggersprite/spr_crashtriggersprite.yy",},
@@ -20,7 +28,10 @@
     {"name":"spr_playerleft","order":1,"path":"sprites/spr_playerleft/spr_playerleft.yy",},
     {"name":"spr_playerright","order":2,"path":"sprites/spr_playerright/spr_playerright.yy",},
     {"name":"spr_playerspin","order":5,"path":"sprites/spr_playerspin/spr_playerspin.yy",},
+<<<<<<< HEAD
     {"name":"spr_playertitle","order":14,"path":"sprites/spr_playertitle/spr_playertitle.yy",},
+=======
+>>>>>>> 5da5967 (title screen update yay)
     {"name":"spr_playerup","order":3,"path":"sprites/spr_playerup/spr_playerup.yy",},
     {"name":"spr_rmtransiton","order":11,"path":"sprites/spr_rmtransiton/spr_rmtransiton.yy",},
     {"name":"spr_soundtrackcover","order":12,"path":"sprites/spr_soundtrackcover/spr_soundtrackcover.yy",},

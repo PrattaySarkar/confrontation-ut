@@ -1,8 +1,14 @@
 {
+<<<<<<< HEAD
   "$GMMainOptions":"v3",
   "%Name":"Main",
   "name":"Main",
   "option_audio_error_behaviour":true,
+=======
+  "$GMMainOptions":"v1",
+  "%Name":"Main",
+  "name":"Main",
+>>>>>>> 5da5967 (title screen update yay)
   "option_author":"",
   "option_collision_compatibility":false,
   "option_copy_on_write_enabled":false,
@@ -10,9 +16,12 @@
   "option_gameguid":"73709ca1-38e3-47a5-b954-3c84d0c865e4",
   "option_gameid":"0",
   "option_game_speed":60,
+<<<<<<< HEAD
   "option_legacy_json_parsing":true,
   "option_legacy_number_conversion":true,
   "option_legacy_other_behaviour":true,
+=======
+>>>>>>> 5da5967 (title screen update yay)
   "option_mips_for_3d_textures":false,
   "option_remove_unused_assets":false,
   "option_sci_usesci":false,
